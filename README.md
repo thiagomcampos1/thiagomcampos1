@@ -13,11 +13,11 @@
 
 ### Thiago Maciel GitHub Stats
 
-![Thiago GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomcampos1&show_icons=true&theme=dark)
+![Thiago GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomcampos1&show_icons=true&theme=tokyonight)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomcampos1&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomcampos1&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
