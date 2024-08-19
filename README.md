@@ -1,17 +1,17 @@
 # Welcome to my profile 👋
 
-🎓 Studying Software Engineering at the University of Brasília - UnB  
+🎓 Studying computer science at the University of Brasília - UnB  
 💻 Full-Stack Developer
 
 ---
 
-### Alexandre Beck's GitHub Stats
+### Thiago Maciel GitHub Stats
 
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzBECK&show_icons=true&theme=radical)
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomaciel1&show_icons=true&theme=radical)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzBECK&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomaciel1&layout=compact&langs_count=8&theme=radical)
 
 ---
 
